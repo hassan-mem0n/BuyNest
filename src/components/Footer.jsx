@@ -9,7 +9,7 @@ const Footer = () => {
         {/* Logo Section */}
         <div>
           <h1 className="text-3xl font-bold mb-4">BuyNest</h1>
-          <p className="text-gray-500 text-sm">© 2026 Flone.</p>
+          <p className="text-gray-500 text-sm">© 2026 BuyNest</p>
           <p className="text-gray-500 text-sm">All Rights Reserved</p>
         </div>
 
